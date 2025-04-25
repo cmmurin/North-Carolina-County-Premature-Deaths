@@ -6,7 +6,7 @@ The repository contains a [Python notebook](https://github.com/cmmurin/North-Car
 
 Also, in the [Data](https://github.com/cmmurin/North-Carolina-County-Premature-Deaths/tree/main/Data) folder, there are two .csv files.
 
-1. [CountyHealthData_2015-2015.csv](https://github.com/cmmurin/North-Carolina-County-Premature-Deaths/blob/main/Data/CountyHealthData_2014-2015.csv) contains information on various health related statistics for each American county for the years 2014 and 2015. 
+1. [CountyHealthData_2014-2015.csv](https://github.com/cmmurin/North-Carolina-County-Premature-Deaths/blob/main/Data/CountyHealthData_2014-2015.csv) contains information on various health related statistics for each American county for the years 2014 and 2015. 
 
 
 The repository contains raw data on health issues for each county in the United States, a subset containing data 
