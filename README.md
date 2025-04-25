@@ -10,4 +10,4 @@ Also, in the [Data](https://github.com/cmmurin/North-Carolina-County-Premature-D
 2. [CD_2015.csv](https://github.com/cmmurin/North-Carolina-County-Premature-Deaths/blob/main/Data/CD2015_subset.csv) is the subset containing the premature death rates and average poor mental health days per North Carolina county for 2015. It was made using the instructions in the Python notebook. 
 
 ## Purpose
-The 
+This data subset was created to find a possible correlation between the selected variables. 
