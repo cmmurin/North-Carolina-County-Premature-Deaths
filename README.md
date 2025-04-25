@@ -11,3 +11,6 @@ Also, in the [Data](https://github.com/cmmurin/North-Carolina-County-Premature-D
 
 ## Purpose
 This data subset was created to find a possible correlation between the selected variables. 
+
+## Getting Started
+If you wish to create your own data repository open the [Python notebook]((https://github.com/cmmurin/North-Carolina-County-Premature-Deaths/blob/main/Creating%20a%20Subset/Creating_a_Subset.ipynb) in a place that supports it, such as [Google CoLab](https://colab.research.google.com/) 
