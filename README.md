@@ -3,7 +3,7 @@ This is a data repository about each North Carolina County's premature death rat
 ## Contents
 The repository contains a [Python notebook](https://github.com/cmmurin/North-Carolina-County-Premature-Deaths/blob/main/Creating%20a%20Subset/Creating_a_Subset.ipynb) explaining how to make a subset from a .csv.
   - This notebook was made using Google CoLab, but will work in anything that supports .ipynb files.
-Also, in the [Data] folder, there are two .csv files.
+Also, in the [Data](https://github.com/cmmurin/North-Carolina-County-Premature-Deaths/tree/main/Data) folder, there are two .csv files.
 
 The repository contains raw data on health issues for each county in the United States, a subset containing data 
 ## Purpose
