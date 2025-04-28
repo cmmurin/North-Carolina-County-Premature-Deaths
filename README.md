@@ -15,8 +15,11 @@ This data subset was created to find a possible correlation between premature de
 If you wish to create your own data repository, open the [Python notebook](https://github.com/cmmurin/North-Carolina-County-Premature-Deaths/blob/main/Creating%20a%20Subset/Creating_a_Subset.ipynb) in a place that supports it, such as [Google CoLab](https://colab.research.google.com/), for step-by-step instructions. 
 ## Need Help?
 Use this link for more information on [Google Colab](https://colab.research.google.com/#)
+
 Use this link for more information on [GitHub](https://docs.github.com/en/get-started/start-your-journey/hello-world) 
+
 Use this link for more information on [Python for beginners](https://www.python.org/about/gettingstarted/)
+
 Use this link for step-by-step instructions on [making your own data subset](https://github.com/cmmurin/North-Carolina-County-Premature-Deaths/blob/main/Creating%20a%20Subset/Creating_a_Subset%20(1).ipynb) 
 
 ---
