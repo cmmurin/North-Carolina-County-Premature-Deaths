@@ -1,5 +1,5 @@
 # North Carolina County Premature Deaths
-This is a data repository about each North Carolina County's premature death rates and average poor mental health days for the year 2015.  
+This is a data repository about each North Carolina County's premature death rates and average poor mental health days for the year 2015. The data is National Public Health data provided by Professor Gotzler at UNC Chapel Hill.  
 ## Contents
 The repository contains a [Python notebook](https://github.com/cmmurin/North-Carolina-County-Premature-Deaths/blob/main/Creating%20a%20Subset/Creating_a_Subset%20(1).ipynb) explaining how to make a subset from a .csv.
   - This notebook was made using Google CoLab, but will work in anything that supports .ipynb files.
@@ -16,4 +16,4 @@ If you wish to create your own data repository, open the [Python notebook](https
 
 ## Need Help?
 ---
-This repository was created by Charlotte Murin (cmmurin) for an English class.
+This repository was created by Charlotte Murin (cmmurin) for Professor Gotzler's English 105 class at UNC Chapel Hill.
